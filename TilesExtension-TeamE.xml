@@ -1,0 +1,284 @@
+<?xml version="1.0"?>
+
+<tileStack>
+    <tile type="JJJJ-" count="1">
+        <center>J</center>
+        <regions>
+            <region rtype="jungle" id="1">0 1 2 3 4 5 6 7</region>
+        </regions>
+    </tile>
+
+    <tile type="JJJJX" count="4">
+        <center>X</center>
+        <regions>
+            <region rtype="jungle" id="2">0 1 2 3 4 5 6 7</region>
+        </regions>
+    </tile>
+
+    <tile type="JJTJX" count="2">
+        <center>X</center>
+        <regions>
+            <region rtype="jungle" id="3">0 1 2 3 4 6 7</region>
+            <region rtype="trail" id="1" type="E">5</region>
+        </regions>
+    </tile>
+
+    <tile type="TTTT-" count="1">
+        <center>T</center>
+        <regions>
+            <region rtype="jungle" id="4">0</region>
+            <region rtype="trail" id="2" type="E">1</region>
+            <region rtype="jungle" id="5">2</region>
+            <region rtype="trail" id="3" type="E">3</region>
+            <region rtype="jungle" id="6">4</region>
+            <region rtype="trail" id="4" type="E">5</region>
+            <region rtype="jungle" id="7">6</region>
+            <region rtype="trail" id="5" type="E">7</region>
+        </regions>
+    </tile>
+
+    <tile type="TJTJ-" count="8">
+        <center>T</center>
+        <regions>
+            <region rtype="jungle" id="8">0 6 7</region>
+            <region rtype="trail" id="6" type="C">1 5</region>
+            <region rtype="jungle" id="9">2 3 4</region>
+        </regions>
+    </tile>
+
+    <tile type="TJJT-" count="9">
+        <center>T</center>
+        <regions>
+            <region rtype="jungle" id="10">0</region>
+            <region rtype="trail" id="7" type="C">1 7</region>
+            <region rtype="jungle" id="11">2 3 4 5 6</region>
+        </regions>
+    </tile>
+
+    <tile type="TJTT-" count="4">
+        <center>T</center>
+        <regions>
+            <region rtype="jungle" id="12">0</region>
+            <region rtype="trail" id="8" type="E">1</region>
+            <region rtype="jungle" id="13">2 3 4</region>
+            <region rtype="trail" id="9" type="E">5</region>
+            <region rtype="jungle" id="14">6</region>
+            <region rtype="trail" id="10" type="E">7</region>
+        </regions>
+    </tile>
+
+    <tile type="LLLL-" count="1">
+        <center>L</center>
+        <regions>
+            <region rtype="lake" id="1" type="C">0 1 2 3 4 5 6 7</region>
+        </regions>
+    </tile>
+
+    <tile type="JLLL-" count="4">
+        <center>J</center>
+        <regions>
+            <region rtype="jungle" id="15">0 1 2</region>
+            <region rtype="lake" id="2" type="C">3 4 5 6 7</region>
+        </regions>
+    </tile>
+
+    <tile type="LLJJ-" count="5">
+        <center>J</center>
+        <regions>
+            <region rtype="jungle" id="16">0 4 5 6 7</region>
+            <region rtype="lake" id="3" type="C">1 2 3</region>
+        </regions>
+    </tile>
+
+    <tile type="JLJL-" count="3">
+        <center>L</center>
+        <regions>
+            <region rtype="jungle" id="17">0 1 2</region>
+            <region rtype="lake" id="4" type="C">3 7</region>
+            <region rtype="jungle" id="18">4 5 6</region>
+        </regions>
+    </tile>
+
+    <tile type="LJLJ-" count="3">
+        <center>J</center>
+        <regions>
+            <region rtype="lake" id="5" type="E">0 1 2</region>
+            <region rtype="jungle" id="19">3 7</region>
+            <region rtype="lake" id="6" type="E">4 5 6</region>
+        </regions>
+    </tile>
+
+    <tile type="LJJJ-" count="5">
+        <center>J</center>
+        <regions>
+            <region rtype="jungle" id="20">0 2 3 4 5 6 7</region>
+            <region rtype="lake" id="7" type="E">1</region>
+        </regions>
+    </tile>
+
+    <tile type="JLLJ-" count="2">
+        <center>J</center>
+        <regions>
+            <region rtype="jungle" id="21">0 1 2 4 6 7</region>
+            <region rtype="lake" id="8" type="E">3</region>
+            <region rtype="lake" id="9" type="E">5</region>
+        </regions>
+    </tile>
+
+    <tile type="TLJT-" count="1">
+        <center>T</center>
+        <regions>
+            <region rtype="jungle" id="22">0</region>
+            <region rtype="trail" id="11" type="C">1 7</region>
+            <region rtype="jungle" id="23">2 4 5 6</region>
+            <region rtype="lake" id="10" type="E">3</region>
+        </regions>
+    </tile>
+
+    <tile type="TLJTP" count="2">
+        <center>T</center>
+        <regions>
+            <region rtype="jungle" id="24">0</region>
+            <region rtype="trail" id="12" type="C">1 7</region>
+            <region rtype="jungle" id="25">2 4 5 6</region>
+            <region rtype="lake" id="11" type="E">3</region>
+        </regions>
+    </tile>
+
+    <tile type="JLTT-" count="1">
+        <center>T</center>
+        <regions>
+            <region rtype="jungle" id="26">0 1 2 4</region>
+            <region rtype="lake" id="12" type="E">3</region>
+            <region rtype="trail" id="13" type="C">5 7</region>
+            <region rtype="jungle" id="27">6</region>
+        </regions>
+    </tile>
+
+    <tile type="JLTTB" count="2">
+        <center>T</center>
+        <regions>
+            <region rtype="jungle" id="28">0 1 2 4</region>
+            <region rtype="lake" id="13" type="E">3</region>
+            <region rtype="trail" id="14" type="C">5 7</region>
+            <region rtype="jungle" id="29">6</region>
+        </regions>
+    </tile>
+
+    <tile type="TLTJ-" count="3">
+        <center>T</center>
+        <regions>
+            <region rtype="jungle" id="30">0 6 7</region>
+            <region rtype="trail" id="15" type="C">1 5</region>
+            <region rtype="jungle" id="31">2 4</region>
+            <region rtype="lake" id="14" type="E">3</region>
+        </regions>
+    </tile>
+
+    <tile type="TLTJD" count="2">
+        <center>T</center>
+        <regions>
+            <region rtype="jungle" id="32">0 6 7</region>
+            <region rtype="trail" id="16" type="C">1 5</region>
+            <region rtype="jungle" id="33">2 4</region>
+            <region rtype="lake" id="15" type="E">3</region>
+        </regions>
+    </tile>
+
+    <tile type="TLLL-" count="1">
+        <center>L</center>
+        <regions>
+            <region rtype="jungle" id="34">0</region>
+            <region rtype="trail" id="17" type="E">1</region>
+            <region rtype="jungle" id="35">2</region>
+            <region rtype="lake" id="16" type="C">3 4 5 6 7</region>
+        </regions>
+    </tile>
+
+    <tile type="TLTT-" count="1">
+        <center>T</center>
+        <regions>
+            <region rtype="jungle" id="36">0</region>
+            <region rtype="trail" id="18" type="E">1</region>
+            <region rtype="jungle" id="37">2 4</region>
+            <region rtype="lake" id="17" type="E">3</region>
+            <region rtype="trail" id="19" type="E">5</region>
+            <region rtype="jungle" id="38">6</region>
+            <region rtype="trail" id="20" type="E">7</region>
+        </regions>
+    </tile>
+
+    <tile type="TLTTP" count="2">
+        <center>T</center>
+        <regions>
+            <region rtype="jungle" id="39">0</region>
+            <region rtype="trail" id="21" type="E">1</region>
+            <region rtype="jungle" id="40">2 4</region>
+            <region rtype="lake" id="18" type="E">3</region>
+            <region rtype="trail" id="22" type="E">5</region>
+            <region rtype="jungle" id="41">6</region>
+            <region rtype="trail" id="23" type="E">7</region>
+        </regions>
+    </tile>
+
+    <tile type="TLLT-" count="3">
+        <center>J</center>
+        <regions>
+            <region rtype="jungle" id="42">0</region>
+            <region rtype="trail" id="24" type="C">1 7</region>
+            <region rtype="jungle" id="43">2 6</region>
+            <region rtype="lake" id="19" type="C">3 4 5</region>
+        </regions>
+    </tile>
+
+    <tile type="TLLTB" count="2">
+        <center>J</center>
+        <regions>
+            <region rtype="jungle" id="44">0</region>
+            <region rtype="trail" id="25" type="C">1 7</region>
+            <region rtype="jungle" id="45">2 6</region>
+            <region rtype="lake" id="20" type="C">3 4 5</region>
+        </regions>
+    </tile>
+
+    <tile type="LJTJ-" count="1">
+        <center>T</center>
+        <regions>
+            <region rtype="jungle" id="46">0 6 7</region>
+            <region rtype="lake" id="21" type="E">1</region>
+            <region rtype="jungle" id="47">2 3 4</region>
+            <region rtype="trail" id="25" type="E">5</region>
+        </regions>
+    </tile>
+
+    <tile type="LJTJD" count="2">
+        <center>T</center>
+        <regions>
+            <region rtype="jungle" id="48">0 6 7</region>
+            <region rtype="lake" id="22" type="E">1</region>
+            <region rtype="jungle" id="49">2 3 4</region>
+            <region rtype="trail" id="26" type="E">5</region>
+        </regions>
+    </tile>
+
+    <tile type="TLLLC" count="2">
+        <center>L</center>
+        <regions>
+            <region rtype="jungle" id="34">0</region>
+            <region rtype="trail" id="17" type="E">1</region>
+            <region rtype="jungle" id="35">2</region>
+            <region rtype="lake" id="16" type="C">3 4 5 6 7</region>
+        </regions>
+    </tile>
+	
+	<tile type="LTLT-" count="2">
+        <center>T</center>
+        <regions>
+            <region rtype="jungle" id="36">0 2</region>
+            <region rtype="jungle" id="37">4 6</region>
+			<region rtype="trail" id="18" type="E">3 7</region>
+            <region rtype="lake" id="17" type="C">1</region>
+			<region rtype="lake" id="18" type="C">5</region>
+        </regions>
+    </tile>
+</tileStack>
